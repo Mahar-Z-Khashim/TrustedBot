@@ -33,7 +33,7 @@ OPENAI_API_KEY=your_openai_key
 ## Usage
 
 1. Run the chatbot: 
-python trustedbot.py
+python app.py
 2. Type your message in the input box.
 3. Click **Send** to get answers.
 4. Click **Reset Memory** to clear the chat history.
@@ -43,3 +43,4 @@ python trustedbot.py
 ## Author
 
 Mahar Z. Khashim – 06/11/2025
+
