@@ -18,7 +18,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/MaharZeyad/TrustedBot
+git clone https://github.com/Mahar-Z-Khashim/TrustedBot
 cd TrustedBot
 ```
 
@@ -53,3 +53,4 @@ python app.py
 ## Author
 
 Mahar Z. Khashim – 06/11/2025
+
